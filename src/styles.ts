@@ -12,6 +12,7 @@ export const styles = html`
       display: flex;
       flex-direction: column;
       flex-grow: 1;
+      text-align: initial !important;
     }
     #states > * {
       margin-bottom: 8px;
